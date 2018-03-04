@@ -1,0 +1,11 @@
+server:
+  port: 8097
+
+mq:
+  host: sidewinder.rmq.cloudamqp.com
+  port: 5672
+  vhost: njouawai
+  user: njouawai
+  password: ubk9L7xARh5RogHO6RM-1JExStrkY0EU
+  exchange: t_node_grp
+  
